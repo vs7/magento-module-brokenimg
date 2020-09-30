@@ -1,0 +1,27 @@
+{
+    "name":"vs7/magento-module-brokenimg",
+    "type":"magento-module",
+    "version":"0.1.0",
+    "license": "OSL-3.0",
+    "description": "Magento extension. Simple javascript to replace image broken url with placeholder.",
+    "keywords": [
+        "magento",
+        "magento1",
+        "vs7",
+        "image",
+        "javascript",
+        "url",
+        "frontend"
+    ],
+    "authors": [
+        {
+            "name": "VS7, Vladislav Gevlich",
+            "email": "vs7develop@gmail.com",
+            "homepage": "https://vs7.io"
+        }
+    ],
+    "homepage": "https://github.com/vs7/magento-module-brokenimg",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

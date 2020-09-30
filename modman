@@ -1,0 +1,5 @@
+app/code/community/VS7/BrokenImg                             app/code/community/VS7/BrokenImg
+app/etc/modules/VS7_BrokenImg.xml                            app/etc/modules/VS7_BrokenImg.xml
+app/design/frontend/base/default/layout/vs7_brokenimg.xml    app/design/frontend/base/default/layout/vs7_brokenimg.xml
+app/design/frontend/base/default/template/vs7_brokenimg      app/design/frontend/base/default/template/vs7_brokenimg
+skin/frontend/base/default/vs7_brokenimg                     skin/frontend/base/default/vs7_brokenimg
